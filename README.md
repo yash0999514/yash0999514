@@ -96,13 +96,12 @@ A Python-based project focused on analyzing and visualizing stock market data.
 ---
 
 ## 📊 GitHub Analytics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash0999514&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=yash0999514&show_icons=true&theme=nightowl" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0999514&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yash0999514&layout=compact&theme=nightowl" alt="Top Languages" />
 </p>
 
 <p align="center">
