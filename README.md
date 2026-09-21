@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./git_banner.png"
+       alt="Yash Shelar GitHub Banner"
+       width="100%">
+</p>
 # 👋 Hi, I'm Yash Shelar
 
 <h3 align="center">💻 B.Tech EXCS Student | Python Developer | AI & Data Analytics Enthusiast</h3>
