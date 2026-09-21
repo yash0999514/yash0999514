@@ -98,18 +98,16 @@ A Python-based project focused on analyzing and visualizing stock market data.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash0999514&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yash0999514&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yash0999514&theme=nightowl&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0999514&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0999514&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash0999514&theme=nightowl&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
